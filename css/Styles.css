@@ -1,0 +1,28 @@
+body
+{
+  background-color:#CDF0EA
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%
+}
+
+h1
+{
+  color: #66BFBF;
+  font: italic 4.2em "Fira sans" , cursive;
+}
+
+h3
+{
+    color: #66BFBF;
+    font: italic 2em "fira sans" , serif;
+}
+img:hover
+{
+  background-color:  gold;
+}
